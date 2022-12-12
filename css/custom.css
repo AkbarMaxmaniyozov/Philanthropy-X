@@ -1,0 +1,191 @@
+body {
+    font-family: sans-serif;
+}
+
+@media (min-width: 1220px) {
+    .container-one {
+        max-width: 1220px;
+        padding: 0;
+    }
+}
+
+.container-one {
+    max-width: 1220px;
+}
+
+.text-color-1 {
+    color: #FF9C08;
+}
+
+/*Navbar section styles*/
+
+.brand-img {
+    width: 35.47px;
+    height: 31.23px;
+
+}
+
+.nav-button {
+    background-color:  #FF9C08;
+    border-radius: 0.625rem;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.125rem;
+    color: #090909;
+    padding: 1rem 1.5rem; 
+}
+
+.nav-button:hover {
+    background-color: #FF9C08;
+}
+/*Navbar section styles*/
+
+/*Main section styles*/
+.main-card {
+    border: 0;
+}
+
+.main-title {
+    font-weight: 700;
+    font-size: 3.75rem;
+    line-height: 5rem;
+    color: #090909;
+}
+
+.main-box-button-1 {
+    background-color: #FF9C08;
+}
+/*Main section styles*/
+
+/*About us section styles*/
+.about-us {
+    background-color: #FEF9F2;
+    padding-top: 4.6875rem;
+    padding-bottom: 4.6875rem;
+}
+
+.about-us-in-img {
+    width: 26px;
+    height: 26px;
+    margin-right: 1rem;
+}
+/*About us section styles*/
+
+/*Our result section styles*/
+.our-result-box-img {
+    width: 56px;
+    height: 56px;
+}
+/*Our result section styles*/
+
+/*Our video section styles*/
+.our-video-section {
+    margin-top: 8rem;
+    background-color: #FFD4A4;
+    padding-top: 4.6875rem;
+    padding-bottom: 4.6875rem;
+}
+/*Our video section styles*/
+
+/*How we help section styles*/
+.how-we-help {
+    margin-top: 12.5rem; 
+}
+
+.how-we-help-in-img {
+    width: 172px;
+    height: 172px;
+}
+/*How we help section styles*/
+
+/*Join us section styles*/
+.join-us {
+    margin-top: 8rem;
+}
+
+.join-us-box {
+    background-color: #FF9C08;
+    border-radius: 2.5rem;
+    height: 436px;
+}
+
+.join-us-box-1 {
+    background-color: #FF9C08;
+    border-radius: 2.5rem;
+    height: 436px;
+    padding: 6rem 2rem;
+}
+
+.join-us-button-1 {
+    background-color: #090909;
+    color: white;
+}
+
+.join-us-button-2 {
+    background-color: white;
+    color: black;
+}
+/*Join us section styles*/
+
+/*Testimonials section styles*/
+.testimonials {
+    margin-top: 6rem;
+    background-color: #FEF9F2;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+/*Testimonials section styles*/
+
+/*Resources section styles*/
+.resources-box-in-box-btn {
+    background-color: white;
+    border: 1px solid #F0ECE8;
+}
+
+.resources-box {
+    width: 60%;
+    margin-left: 1rem;
+}
+/*Resources section styles*/
+
+/*Footer section styles*/
+.footer-section {
+    background-color: #FEF9F2;
+    margin-top: 8rem;
+}
+
+.footer-box-top {
+    padding-top: 8rem;
+}
+
+.footer-item {
+    list-style: none;
+}
+
+.footer-right-box {
+    background-color: #FF9C08;
+    border-radius: 0.875rem;
+}
+
+.footer-right-box-in-box {
+    width: 292px;
+}
+
+.footer-button-1 {
+    background-color: #090909;
+    width: 292px;
+    height: 71px;
+    border-radius: 0.625rem;
+}
+
+.footer-button-2 {
+    background-color: white;
+    width: 292px;
+    height: 71px;
+    border-radius: 0.625rem;
+}
+
+.footer-bottom-text p, a {
+    font-size: 0.875rem;
+}
+/*Footer section styles*/
